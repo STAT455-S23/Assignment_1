@@ -58,7 +58,7 @@ banksalary <- read_csv("https://raw.githubusercontent.com/proback/BeyondMLR/mast
 # Type code here
 ```
 
-### c) Create a scatterplot matrix displaying relationships between "bsal", "age", "exper", "educ", "sex". Hint: Use `ggpairs`. 
+### c) Create a scatterplot matrix displaying relationships between "bsal", "age", "exper", "educ", "sex", "senior". Hint: Use `ggpairs`. 
 
 ```{r}
 # Type code here
